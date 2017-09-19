@@ -20,6 +20,8 @@ The GPU_threaded_1 folder contains my first attempt at a CUDA solution (which di
 The GPU_threaded_2 folder contains my second attempt at a CUDA solution (which wasn't much better).
 
 The GPU_threaded_3 folder contains my best CUDA solution, which is about 35 times faster than the CPU multi-threaded implementation.
+## Presentation
+To see a more in-depth comparative analysis of memory access patterns and work allocation techniques for threads, download and view Presentation.pptx.
 ## License
 MIT License
 
